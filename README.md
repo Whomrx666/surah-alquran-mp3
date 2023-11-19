@@ -21,7 +21,7 @@ $ mv (surah name) /sdcard
 
 # Preview several surah in the tools
 
-<img src="https://github.com/Whomrx666/surah-alquran-mp3/blob/master/01.png">
+<img src="https://github.com/Whomrx666/surah-alquran-mp3/blob/main/01.png">
 
 
 ## Instructions
